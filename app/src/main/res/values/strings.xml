@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="enter_greeting">Введите приветствие</string>
+    <string name="enter_name">Введите имя</string>
+    <string name="send_greeting">Дальше</string>
+    <string name="greeting_text">Приветствие появится здесь</string>
+</resources>
